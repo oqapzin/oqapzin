@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, bem vindo ao meu perfil do GitHub! :computer:
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, bem-vindo ao meu perfil do GitHub! :computer:
 
 - 🙃 Meu nome é Pedro Henrique, mas sou conhecido como QAP.
 - :books: Estou cursando Análise e desenvolvimento de sistemas. 
